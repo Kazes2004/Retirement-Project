@@ -2,6 +2,6 @@
 * Places to visit
 * Income information
 * Social infrastructure
-* Medical/Health 
-					Distance to medical
+* Medical/Health :
+					Distance to medical and 
 					Cost associated at each potential location
