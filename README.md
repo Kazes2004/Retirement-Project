@@ -3,5 +3,5 @@
 * Income information
 * Social infrastructure
 * Medical/Health 
-  *Distance to medical
-  *Cost associated at each potential location
+  **Distance to medical
+  **Cost associated at each potential location
