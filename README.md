@@ -5,3 +5,4 @@
 * Medical/Health :
 					Distance to medical and 
 					Cost associated at each potential location
+					Cost to fly home
